@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Instance folder (Flask local configs & secrets)
+instance/
+
+# SQLite database
+*.db
+*.sqlite3
+
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Pytest cache
+.pytest_cache/
+
+# Flask secret key or environment files
+.env
+.env.*
