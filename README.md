@@ -7,7 +7,7 @@ A simple Flask-based RESTful API for managing tasks with JWT authentication.
 ## Setup Instructions
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/muditparashar2410/task-manager-api.git
 cd task-manager
 
 python -m venv venv
